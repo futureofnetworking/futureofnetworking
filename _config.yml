@@ -29,6 +29,25 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+#
+# Podcast
+#
+# Based on https://github.com/joebuhlig/Jekyll-Podcast-Feed
+
+podcast_url: http://futureofnetworking.github.io/podcasts
+podcast_album_art: /img/podcast-cover.jpg
+podcast_title: Future of Networking 
+podcast_owner: Curtis Collicutt
+podcast_email: curtis@serverascode.com 
+podcast_category: Technology
+podcast_subcategory_one: Software How-To
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Curtis Collicutt 
+podcast_description: Investigating the future of computer networking. 
+podcast_summary: Investigagting the future of computer networking. 
+podcast_subtitle: "" 
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
