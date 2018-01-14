@@ -1,11 +1,47 @@
 ---
 layout: post
-title:  "introduction"
+title:  "Introduction to The Future of Networking"
 date:   2018-01-03 08:55:42 -0600
 categories: fn
 background: /img/bg.jpg
 author: fn
 ---
----
 
-<p>test test est</p>
+# Welcome to The Future of Networking!
+
+Woah. OK, that's a serious title. Let's dial it back a bit and set some boundaries here before we get in over our head--what this blog/podcast/group is about is *investigating new networking technologies*. We're not trying to create *the future of networking*, rather we are exploring it.
+
+Technology is always changing. In the last few years it seems like it has been changing faster than ever...SDN, public clouds, NFV to name a few paradigm shifts. Further to that, in our opinion, networking is more important than ever. There is much innovation occurring in networking, and part of fn's charter is to explore these new ideas and technologies, to find all the great things that are being done in networking and experiment with them.
+
+## What We Do
+
+Here at **The Future of Networking** we hope to earnestly and openly explore modern networking technologies as best we can. We'll be doing that in at least four different ways:
+
+1. Blog posts on this website
+2. Podcasts - To start we will have a main podcast with episodes about an hour long, as well as a podcast called **Shortest Path First** which will be podcasts from five to ten minutes long
+3. Workshops and labs - We hope to host workshops and labs, either virtual or in person
+4. Meetups - For now we have a couple of main meetups in Toronto, Canada: [Open Source Networking Toronto](https://www.meetup.com/Open-Source-Networking-Toronto/) and [OpenStack Toronto](https://www.meetup.com/OpenStackTO/)
+
+Some topics we will explore:
+
+* Software Defined Networking (SDN)
+* Network Function Virtualization (NFV)
+* Internet of Things (IoT)
+* Segment Routing
+* Network Slicing
+* Network Virtualization
+* Intent Based Networking (IBN)
+* Network Automation
+* Networking in OpenStack and Kubernetes
+* Network Operating Systems
+* Whitebox Switching and Routing
+* Network Analytics
+* Machine Learning (of course)
+* New network protocols
+* ...and more
+
+## Help Out
+
+It's important to note that we are just getting started. If you have suggestions, please do let us know, and we look forward to being part of the global networking community! We are always looking for guests on our podcast episodes.
+
+For now please email *curtis@serverascode.com* with any questions, comments, or to ask how to help.
