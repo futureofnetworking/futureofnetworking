@@ -9,9 +9,9 @@ author: fn
 #permalink: /35/
 image: /assets/posts/Awesome-Podcast-Art.jpg
 podcast_link: http://traffic.libsyn.com/podcast/filename.mp3
-podcast_file_size: 13.7 MB
-podcast_duration: "14:02"
-podcast_length: 13654375
+podcast_file_size: 5.9 MB
+podcast_duration: "6:21"
+podcast_length: 6103874
 podcast_guid: podcast/spf/2018/01/15/spf-e01-intro.html
 ---
 
